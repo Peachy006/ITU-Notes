@@ -1,4 +1,4 @@
-First create a file called User, this will use jakarta to create it
+sFirst create a file called User, this will use jakarta to create it
 
 start with making the @entity
 
@@ -39,3 +39,7 @@ public interface UserRepository extends JpaRepository<User, Long> {
 i use XAMPP with mysql to save data, i use postman to simulate data transactions and yea thats it
 
 ### application.properties
+
+### how does it work together?
+
+the jpare
