@@ -42,4 +42,4 @@ i use XAMPP with mysql to save data, i use postman to simulate data transactions
 
 ### how does it work together?
 
-the jpare
+the jparepo talks with the database, the methods are used by userServiceImplementation, and then userServiceIMplementation is used in userController
