@@ -53,12 +53,14 @@
             "id": "0ab2b1d4b10ca73a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "ledklinikken/checlist.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Udgivelsesnoter 1.12.7"
+              "icon": "lucide-file",
+              "title": "checlist"
             }
           }
         ],
@@ -215,6 +217,8 @@
   },
   "active": "0ab2b1d4b10ca73a",
   "lastOpenFiles": [
+    "ledklinikken/checlist.md",
+    "ledklinikken",
     "Springboot/Connecting with react and next js.md",
     "Springboot/Creating a login system.md",
     "PRKOM/Kommunikation/Forlæsning 1.md",
@@ -258,7 +262,6 @@
     "PRKOM/Untitled",
     "Discrete Math",
     "Java/Tasks",
-    "Java",
-    "GRPRO/Java/Tasks"
+    "Java"
   ]
 }
