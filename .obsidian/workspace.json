@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "checlist"
             }
+          },
+          {
+            "id": "14742ffde89f9225",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Udgivelsesnoter 1.13.4"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -84,10 +96,12 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Stifinder"
+              "title": "Filer"
             }
           },
           {
@@ -203,19 +217,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Åbn hurtig skifter": false,
+      "switcher:Åbn Hurtigskifter": false,
+      "command-palette:Åbn kommandopalet": false,
       "graph:Åbn grafvisning": false,
       "canvas:Opret nyt lærred": false,
       "daily-notes:Åbn dagens note": false,
       "templates:Indsæt skabelon": false,
-      "command-palette:Åbn fastgjorte kommandoer": false,
       "bases:Opret ny base": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ab2b1d4b10ca73a",
+  "active": "14742ffde89f9225",
   "lastOpenFiles": [
     "ledklinikken/checlist.md",
     "ledklinikken",
