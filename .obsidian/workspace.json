@@ -74,9 +74,21 @@
               "icon": "lucide-book-up",
               "title": "Udgivelsesnoter 1.13.4"
             }
+          },
+          {
+            "id": "8b69c232590bf86b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Udgivelsesnoter 1.13.7"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -229,7 +241,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14742ffde89f9225",
+  "active": "8b69c232590bf86b",
   "lastOpenFiles": [
     "ledklinikken/checlist.md",
     "ledklinikken",
